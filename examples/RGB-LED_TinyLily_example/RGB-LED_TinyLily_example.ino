@@ -1,6 +1,6 @@
 #include <FastLED.h>
-#define NUM_LEDS 1 //this is the number of LEDs in your strip
-#define DATA_PIN 1 //this is the number on the silkscreen you want to use
+#define NUM_LEDS 2 //this is the number of LEDs in your strip
+#define DATA_PIN 3 //this is the number on the silkscreen you want to use
 #define COLOR_ORDER GRB
 
 CRGB leds[NUM_LEDS];
